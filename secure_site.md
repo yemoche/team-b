@@ -29,3 +29,5 @@
 
 * https://skillupafrica.com.ng/ - HTTP/1.1
   Headers Profile : Strict-Transport-Security Disenabled, Content-Security-Policy Disenabled, X-Frame Options disenabled, Referrer-Policy Disenabled, Permission-Policy Disenabled
+
+**Source:** [Security Headers](securityheaders.com)
