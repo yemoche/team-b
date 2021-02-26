@@ -1,8 +1,8 @@
 Secured Sites according to their Headers
 ====
 
-* Facebook.com
-* Ttradingview.com
+* fated.org
+* Tradingview.com
 * bloomberg.com
 
 
