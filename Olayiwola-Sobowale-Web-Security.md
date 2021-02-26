@@ -5,6 +5,6 @@
 * https://www.nasa.gov/
 * https://www.firstbanknigeria.com/
 ## List of poorly secured sites are;
-*https://www.cbn.gov.ng/
-*https://unilag.edu.ng/
-*https://pluralsight.com/
+* https://www.cbn.gov.ng/
+* https://unilag.edu.ng/
+* https://pluralsight.com/
