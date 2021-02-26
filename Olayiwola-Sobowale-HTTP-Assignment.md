@@ -1,4 +1,4 @@
-			#HTTP
+# HTTP
 											
 HTTP means Hypertext Transfer Protocol and it is the standard protocol for transferring data over the World Wide Web
 
@@ -16,31 +16,31 @@ RTP: Real-Time Transfer Protocol, which is a standard for audio and video.
 
 POP: This a protocol to receive mail.
 
-                 ##HTTP Headers
+## HTTP Headers
 
 They exhibit the following properties such as:
 
-*Carry the information about what type of client sent the request
+* Carry the information about what type of client sent the request
 
-*Server configuration
+* Server configuration
 
-*Time and date of response
+* Time and date of response
 
-*Duration of data storage
+* Duration of data storage
 
-*Data format
+* Data format
 
-*Coookies used to track sessions
+* Coookies used to track sessions
 
 				
-				##HTTP Stateless Nature
+## HTTP Stateless Nature
 				
 HTTP is a stateless protocol as each individual request is unique and no request is connected to another request i.e
 
 once a request is sent and received on the server it is discarded and forgotten by the browser and web server.
 
 
-				##Dealing with HTTP Stateless Nature
+## Dealing with HTTP Stateless Nature
 
 Due to the process of having multiple TCP connections which brought about statelessness, to the solve this problem a feature 
 
@@ -57,7 +57,7 @@ obviously, must make the decision to use a connection persistently. It can do so
 The server must not close the TCP connection after fulfilling the client’s initial request.
 
 
-				##HTTP Request/Reponse pairs
+## HTTP Request/Reponse pairs
 
 HTTP works based on request and response pairs and end with a HTTP response  with a status code saying what happened to the
 
@@ -65,14 +65,14 @@ request. Status response code is numerical code in the 100 to 500 range describi
 
 to the client. Examples of these are:
 
-*20O: OK
+* 20O: OK
 
-*404: Not Found
+* 404: Not Found
 
-*500: Server Error
+* 500: Server Error
 
 
-					##User Operations
+## User Operations
 					
 The http protocol defines four basic operations: GET, POST, PUT, and DELETE. They are considered to be user operations
 
@@ -87,7 +87,7 @@ Clients use them to communicate with servers not so much to perform user actions
 with the basic operations.
 
 				
-				##HTTP Versions
+## HTTP Versions
 
 We have different types of HTTP versions such as HTTP/1.1, HTTP/2, HTTPS and other updcoming versions. HTTP/2 compared
 
@@ -97,9 +97,8 @@ files are sent over connection at the same time and requires an encrypted connec
 
 HTTPS.
 
-			###Diagram showing the commucation between two system i.e Web Client(Brower) and Web Server
-	
-	![Communication between Web Client and Web Server](https://res.cloudinary.com/layitheinfotechguru/image/upload/v1614336360/communication_system_pys0xz.gif)
+### Diagram showing the commucation between two system i.e Web Client(Brower) and Web Server
+![Communication between Web Client and Web Server](https://res.cloudinary.com/layitheinfotechguru/image/upload/v1614336360/communication_system_pys0xz.gif)
 	
 
 
