@@ -1,4 +1,4 @@
-                  # HTTP
+# HTTP
 
 HTTP acronym means an *"Hypertext Transfer Protocol"
 HTTP is a protocol which allows the fetching of resources, such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser
@@ -10,12 +10,12 @@ The HTTP is stateless in nature, that is each transaction of the message based m
 
 When you access a website, your browser sends a request to the corresponding web server and it responds with an HTTP status code. If the URL is valid and the connection is granted, the server will send your browser the webpage and related files.
 
-##Some Common HTTP Status code are as liste below:
+## Some Common HTTP Status code are as liste below:
 
-1.  200 - successful request (the webpage exists)
-2.  301 - moved permanently (often forwarded to a new URL))
-3.  403 - forbidden (access is not allowed to the page or directory)
-4.  500 - internal server error (often caused by an incorrect server configuration)
+1. 200 - successful request (the webpage exists)
+2. 301 - moved permanently (often forwarded to a new URL))
+3. 403 - forbidden (access is not allowed to the page or directory)
+4. 500 - internal server error (often caused by an incorrect server configuration)
 
 HTTP also defines commands/Verbs such as GET and POST, which are used to handle form submissions on websites. The CONNECT command is used to facilitate a secure connection that is encrypted using SSL. Encrypted HTTP connections take place over HTTPS, an extension of HTTP designed for secure data transmissions.
 
@@ -80,6 +80,6 @@ There are different types of headers that are grouped based on their usage into 
 Since HTTP makes use of Client-Server model, its application can be found on our mobile devices, home computer, Laptop.
 
 
-**Source:** [Lynda](Lynda.org)  [Freecodecamp](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/) [techterms] (https://techterms.com/definition/httpco)
+**Source:** [Lynda](Lynda.org)  [Freecodecamp](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/) [techterms](https://techterms.com/definition/httpco)
 
 
